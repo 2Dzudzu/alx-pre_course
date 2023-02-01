@@ -1,2 +1,1 @@
-getting there
-slowly but surely
+getting there slowly
